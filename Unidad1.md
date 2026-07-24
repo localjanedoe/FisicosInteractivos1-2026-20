@@ -1,0 +1,26 @@
+// intento de audio (??)
+setcpm(25)
+let drum = stack(
+  s("bd").beat("3,5,9,13",16),
+  s("st [bd mt]").beat("0,1,4,6,8,10,12,14",16),
+  s("cp").beat("4,12",16),
+  s("hh").beat("0,2,3,7,9,10,15",16),
+).bank("RolandTr909")
+
+let bass = stack(
+  s("sd oh").beat("3,5,9",16),
+).bank("RhythmAce")
+
+let chords = note("c2 c2 c2 c2")
+  .sound("casio")
+  .slow(4)
+  .gain(0.57)
+
+let melodies = note("0 1 [4 2] 3*2")
+  .sound("jazz")
+  .gain(0.7)
+
+$melodies: melodies
+$drum: drum 
+$bass: bass
+$chords: chords
