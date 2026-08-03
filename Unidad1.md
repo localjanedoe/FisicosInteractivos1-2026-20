@@ -1,5 +1,9 @@
 // pequeño sample :)
+
+
 setcpm(25) 
+
+
   let drum = stack
     ( s("bd").beat("3,5,9,13",16), 
       s("st [bd mt]").beat("0,1,4,6,8,10,12,14",16), 
