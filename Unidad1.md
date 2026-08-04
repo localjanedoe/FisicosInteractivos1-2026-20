@@ -17,8 +17,9 @@ let bass = stack
 
 
   ( s("sd oh").beat("3,5,9",16), 
-    s("sd").beat("4,8,6,2",16)
+    s("sd").beat("4,8,6,2",16),
   ).bank("RhythmAce")
+  
 
 let chords = 
 
