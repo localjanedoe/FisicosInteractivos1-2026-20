@@ -17,17 +17,21 @@ let bass = stack
 
 
   ( s("sd oh").beat("3,5,9",16), 
-    s("sd").beat("4,8,6,2",16),
+    s("sd hh").beat("4,8,6,2",16),
+    
   ).bank("RhythmAce")
   
 
 let chords = 
-
-  note("c2 c2 c2 c2").sound("casio").slow(4).gain(0.57)
+  note("c2 c2 c2 c2")
+  .sound("casio")
+  .slow(4)
+  .gain(0.57)
 
 let melodies = 
 
-  note("2 1 [4 2] 3*2").sound("jazz")
+  note("2 1 [4 2] 3*2")
+  .sound("jazz")
 
 $melodies: melodies 
 
