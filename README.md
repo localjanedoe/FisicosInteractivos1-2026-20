@@ -1,1 +1,0 @@
-# FisicosInteractivos1-2026-20
