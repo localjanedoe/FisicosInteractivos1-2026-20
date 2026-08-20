@@ -1,9 +1,8 @@
 # Audio 
 // another one i guess
 
-```
 setcpm(25)
-```
+
 
 
 
