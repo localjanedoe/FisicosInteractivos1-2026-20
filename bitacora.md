@@ -8,6 +8,7 @@ Strudel REPL es nuestra principal herramienta, ya he hecho varios beats ahí, la
 
 # 2. Visual
 Estamos usando TouchDesigner, es confuso al principio, ya que hay que tener cuidado con el orden y la organización de los nodos y los operadores (estos tienen varios tipos) con ayuda de esto se van creando visuales. Hasta ahora mi mejor trabajo: 
+
 <img width="771" height="768" alt="image" src="https://github.com/user-attachments/assets/3209209f-9820-453b-90ea-94fa40cd8060" />
 
 # 3. Integración audiovisual
