@@ -15,7 +15,6 @@ setcpm(25)
 
 let bass = stack
 
-
   ( s("sd oh").beat("3,5,9",16), 
     s("sd hh").beat("4,8,6,2",16),
     
