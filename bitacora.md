@@ -33,7 +33,7 @@ Con ` podemos distribuir las notas en párrafos
 
 
 # 2. Visual
-Estamos usando TouchDesigner, es confuso al principio, ya que hay que tener cuidado con el orden y la organización de los nodos y los operadores (estos tienen varios tipos) con ayuda de esto se van creando visuales. Es importante aprender a estructurar los componentes por sus nodos y el tipo de componente que son
+Estamos usando TouchDesigner, es confuso al principio, ya que hay que tener cuidado con el orden y la organización de los nodos y los operadores (estos tienen varios tipos) con ayuda de esto se van creando visuales. Es importante aprender a cómo estructurarlos
 
 # 3. Integración audiovisual
 Se necesita el TLStrudel para organizar, ahora la imagen va transcurriendo mientras se reproducen los beats en Strudel. . .
