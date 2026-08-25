@@ -2,6 +2,7 @@
 
 Hola, esta es mi bitácora para Sistemas Físicos Interactivos,
 En general es curioso y a la vez confuso tratar de manejar las temáticas a corto plazo, pero yo sé que puedo :)
+
 Esto es un recuento de los conceptos que he aprendido y considero importantes conservar a lo largo del curso
 
 
