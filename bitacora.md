@@ -4,6 +4,16 @@ Hola, esta es mi bitácora para Sistemas Físicos Interactivos,
 En general es curioso y a la vez confuso tratar de manejar las temáticas a corto plazo, pero yo sé que puedo :)
 Esto es un recuento de los conceptos que he aprendido y considero importantes conservar a lo largo del curso
 
+
+
+
+
+
+
+
+
+
+
 # 1. Audio
 Strudel REPL es nuestra principal herramienta, ya he hecho varios beats ahí, la cuestión es guiarse de la vena musical de uno, poco a poco he descubierto funciones y pequeños comandos que se usa para optimizar la creación de audio. . .
 
