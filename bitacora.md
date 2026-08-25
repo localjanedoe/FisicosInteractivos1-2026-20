@@ -8,8 +8,6 @@ Esto es un recuento de los conceptos que he aprendido y considero importantes co
 Strudel REPL es nuestra principal herramienta, ya he hecho varios beats ahí, la cuestión es guiarse de la vena musical de uno, poco a poco he descubierto funciones y pequeños comandos que se usa para optimizar la creación de audio. . .
 
 
-Aprendí los sonidos básicos (bd st hh oh cr lt ht rd) etc.
-
 ```
 Con .sound() modificamos el sonido de las notas por la caja de ritmos
 Con setcpm() definimos el tempo
