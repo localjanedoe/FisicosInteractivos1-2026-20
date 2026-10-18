@@ -20,8 +20,8 @@ Con [] añadimos secuencias secundarias, son un complemento
 Con la multiplicación podemos aumentar la velocidad, con la división podemos bajarla
 Con , podemos hacer que las notas suelen en paralelo
 Con ` podemos distribuir las notas en párrafos
-
 ```
+
 Un pequeño ejemplo que hice :
 ````
 // Your New Home - The Amazing Digital Circus
