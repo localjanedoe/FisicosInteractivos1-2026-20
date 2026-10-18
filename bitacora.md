@@ -1,4 +1,4 @@
-# FisicosInteractivos1-2026-20
+# Sistemas Fisicos Interactivos 1 2026-20
 
 Hola, esta es mi bitácora para Sistemas Físicos Interactivos,
 En la siguiente bitácora podrás encontrar pequeños fragmentos de lo que hice en el curso, unas breves explicaciones de qué se hace y de qué se trata cada elemento visto durante el curso, espero sea útil para el que esté leyendo esto.
