@@ -49,8 +49,7 @@ note
   .slow(12)
 
 $melody : melody
-  
-  )
+
 ````
 
 
